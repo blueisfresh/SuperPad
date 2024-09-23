@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZARRTwkUfCCXTszFDe8Vxx6C9So0z6sL5OfPgRME+9FNO/l0KHOUqH0BlLOkPAdClBcWq+BlgGe9LqyUPMSIA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Dev\\git\\Github\\Superpad\\Superpad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gue\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
